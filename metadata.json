@@ -1,0 +1,6 @@
+{
+  "name": "Dental Checkup Enquiry",
+  "description": "Modern and simple website for dental checkup client enquiries with n8n webhook integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
